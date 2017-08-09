@@ -176,3 +176,9 @@ p.copyright {
 .tech-icon {
     font-size: 10rem;
 }
+.links {
+  list-style-type: none;
+}
+img {
+  margin-top: 35px;
+}
